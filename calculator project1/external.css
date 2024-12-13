@@ -1,0 +1,18 @@
+button {
+  background-color: #2fc2c2;
+  padding: 15px;
+  color: black;
+  border-radius: 15px;
+  font-weight: bold;
+  font-size: 20px;
+  box-shadow: 1px 5px 5px;
+  width: 100%;
+}
+
+#output {
+  color: white;
+}
+
+#container {
+  width: 400px;
+}
